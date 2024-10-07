@@ -8,3 +8,6 @@ git status
 git add filename
 git commit -m "meaningful message"
 -> creates a save point in your code
+
+git diff
+-> shows the difference from the last commit (aka save point)
