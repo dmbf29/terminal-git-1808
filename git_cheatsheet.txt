@@ -11,3 +11,7 @@ git commit -m "meaningful message"
 
 git diff
 -> shows the difference from the last commit (aka save point)
+
+git log
+git lg (shorter version)
+-> visualize the commit history in the project
