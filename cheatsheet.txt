@@ -1,0 +1,37 @@
+pwd
+-> print working directory (aka where am i?)
+
+ls / ll
+-> shows the contents of the folder
+
+cd folder_name
+-> moved
+
+cd ..
+-> move back
+
+mkdir folder_name
+-> makes the directory
+
+touch filename.ext
+-> creates a file
+
+mv filename folder
+-> move the file into the folder
+
+mv filename new_filename
+-> renames a file
+
+rm filename
+rm -r folder_name
+-> delete things
+
+cat filename
+-> display contents in the Terminal
+
+code .
+-> open VS Code
+
+open . (mac)
+explorer.exe . (ubuntu)
+-> opens the folder
