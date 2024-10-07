@@ -1,0 +1,10 @@
+git init
+-> starts a git repository
+
+git status
+-> checks if you're clean or directory
+-> do you have files to add or update?
+
+git add filename
+git commit -m "meaningful message"
+-> creates a save point in your code
