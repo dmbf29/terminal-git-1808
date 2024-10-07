@@ -15,3 +15,6 @@ git diff
 git log
 git lg (shorter version)
 -> visualize the commit history in the project
+
+git remote -v
+-> checks any external connects (like Github)
